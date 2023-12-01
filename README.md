@@ -25,33 +25,15 @@ Usage for this web application is very simple.
 
 1. **:**
 
--Create a product.
+-Create a post.
 
--Update an existing product.
+-Update an existing post.
 
--Delete an existing product.
-
--Search for one product, All products.
+-Delete an existing post.
 
 2. **:**
 
--Create a category.
-
--Update an existing category.
-
--Delete an existing category.
-
--Search for a category by ID or All categories.
-
-3. **:**
-
--Create a Tag.
-
--Update an existing Tag.
-
--Delete an existing Tag.
-
--Search for a Tag by ID or All Tags.
+-Create a login.
 
 ## Credits
 
@@ -68,7 +50,7 @@ N/A
 
 Video of deployed App:
 
-Site: https://arthur-bridges.github.io/TestTaking-Website/
+Site:
 
 ## Badges
 
